@@ -1,3 +1,4 @@
+![logo](https://github.com/Rishikagupta1810/Rishikagupta1810/commit/eb3f1c96c9c011445d789e3369d230f3f275b907.pjg)
 <h1 align="center">Hi 👋, I'm Rishika Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
